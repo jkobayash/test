@@ -15,6 +15,11 @@ namespace test
         public Form1()
         {
             InitializeComponent();
+
+            //更新テスト
+        
+            //ローカルで作業中
+
         }
     }
 }
