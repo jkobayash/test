@@ -15,7 +15,7 @@ namespace test
         public Form2()
         {
             InitializeComponent();
-            //追加テスト
+            //追加 テスト
         }
     }
 }
